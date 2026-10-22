@@ -20,12 +20,13 @@ Del 22 al 28 de octubre de 2026 pruebo una herramienta distinta cada día, viend
 - Creé este repositorio.
 - Creé una rama y practiqué commits.
 - Hice un fork de un repositorio de ejemplo y abrí pull requests.
+- - Abrí y fusioné mi primer pull request (#1) desde la rama `readme-semana` hacia `main`.
 
 **Qué aprendí**
 - La diferencia entre Git y GitHub.
 - Qué son un repositorio, una rama, un commit, un pull request y un fork.
 - Que bitbucket es como github pero de Atlassian.
-- Que Github - Copilot se instala en Visual Studio Code o JetBrains pero como no uso editores de código lo quise probar directamente en Github web.
+- Que GitHub Copilot se puede usar en editores como Visual Studio Code o JetBrains y también directamente en GitHub.com. Como no uso editores de código, lo quise probar en la web.
 
 **Qué falló**
 - No pude probar el chat de Copilot en GitHub.com. Al abrirlo me salió una ventana de bienvenida que daba el error "We could not save your guided setup. Please try again." y no me dejó seguir.
